@@ -1,2 +1,1 @@
-# Hello-World-Github
-This is a hello world project for usage of Github
+This is a demo project of Github Action for AIST2602 workshop 6,created by Chen Chang.
